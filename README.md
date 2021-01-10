@@ -2,7 +2,7 @@
 
 ## About
 
-My solution to AD 320 class assignments posted here.
+My solution to AD 320 class assignments are posted here.
 
 ## How it works
 
