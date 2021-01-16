@@ -11,6 +11,7 @@ Weekly assignments are updated through branches.
 ## Links to my solutions
 
 * [Week 1](https://github.com/cmcclemente/emerald/tree/week1) - Refreshing basic HTML, CSS, and JS
+* [Week 2](https://github.com/cmcclemente/emerald/tree/week2) - A Simple Node HTTP Server
 
 ## Acknowledgments
 
