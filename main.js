@@ -34,11 +34,11 @@ const server = http.createServer((req, res) => {
         res.on("end", () => {
             try {
                 let json = JSON.parse(body);
-                
+                //Can't get this part to work
                 fs.readFile(users, (data) => {
                     let user = JSON.parse(data);
                     user.push(json);
-                    fs.writeFile('users.json', JSON.stringify(user));
+                    fs.writeFile('./users.json', JSON.stringify(user));
                     console.log(user);
                 })
             } catch (error) {
