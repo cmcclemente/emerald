@@ -12,6 +12,7 @@ Weekly assignments are updated through branches.
 
 * [Week 1](https://github.com/cmcclemente/emerald/tree/week1) - Refreshing basic HTML, CSS, and JS
 * [Week 2](https://github.com/cmcclemente/emerald/tree/week2) - A Simple Node HTTP Server
+* [Week 3](https://github.com/cmcclemente/emerald/tree/week3) - Hello World React and Express Application
 
 ## Acknowledgments
 
